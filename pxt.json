@@ -1,0 +1,23 @@
+{
+    "name": "distance",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#master",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
